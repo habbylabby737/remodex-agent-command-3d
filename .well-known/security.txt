@@ -1,0 +1,4 @@
+Contact: https://github.com/habbylabby737/remodex-agent-command-3d/issues
+Expires: 2027-05-23T05:00:00.000Z
+Preferred-Languages: en
+Canonical: https://habbylabby737.github.io/remodex-agent-command-3d/.well-known/security.txt
